@@ -607,6 +607,20 @@
         "audio": "须尽欢.mp3",
         "cover": "鄭浩.jpg"
       }
+      ,
+      {
+        "title": "Faded异域(hannibal)",
+        "artist": "麦斯米科尔森",
+        "audio": "Faded异域(hannibal).mp3",
+        "cover": "麦斯米科尔森.jpg"
+      }
+      ,
+      {
+        "title": "Faded异域0.9x",
+        "artist": "麦斯米科尔森",
+        "audio": "Faded异域0.9x.mp3",
+        "cover": "麦斯米科尔森.jpg"
+      }
     ]
   }
   
