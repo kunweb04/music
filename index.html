@@ -577,8 +577,8 @@ document.addEventListener('DOMContentLoaded', () => {
       for (let i = 0; i < bufferLength; i++) {
         const barHeight = dataArray[i];
         const gradient = canvasCtx.createLinearGradient(0, HEIGHT - barHeight / 2, 0, HEIGHT);
-        gradient.addColorStop(0, '#EBFBEE');
-        gradient.addColorStop(1, '#D3F9D8');
+        gradient.addColorStop(0, '#2D2E2E');
+        gradient.addColorStop(1, '#716969');
 
         canvasCtx.fillStyle = gradient;
         canvasCtx.fillRect(x, HEIGHT - barHeight / 2, barWidth, barHeight / 2);
