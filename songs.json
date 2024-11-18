@@ -642,6 +642,34 @@
         "audio": "MY ALL.mp3",
         "cover": "濱崎步.jpg"
       }
+      ,
+      {
+        "title": "弱水三千",
+        "artist": "Walker、JOJO",
+        "audio": "弱水三千.mp3",
+        "cover": "Musica1.jpg"
+      }
+      ,
+      {
+        "title": "王者战歌",
+        "artist": "王者荣耀",
+        "audio": "王者战歌.mp3",
+        "cover": "王者荣耀.jpg"
+      }
+      ,
+      {
+        "title": "王者冰刃",
+        "artist": "王者荣耀",
+        "audio": "王者冰刃.mp3",
+        "cover": "王者荣耀.jpg"
+      }
+      ,
+      {
+        "title": "王者S6主题曲",
+        "artist": "王者荣耀",
+        "audio": "王者S6.mp3",
+        "cover": "王者荣耀.jpg"
+      }
     ]
   }
   
