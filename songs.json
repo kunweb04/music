@@ -690,6 +690,26 @@
       "artist": "杜贴心",
       "audio": "月下残影.m4a",
       "cover": "杜贴心.jpg"
+    },
+    {
+      "title": "新月原野",
+      "artist": "一颗狼星",
+      "audio": "新月原野.mp3",
+      "cover": "一颗狼星.jpg"
+    }
+    ,
+    {
+      "title": "宝可梦地平线探索队1",
+      "artist": "Pokemon Horizon",
+      "audio": "宝可梦地平线探索队1.mp3",
+      "cover": "Pokemon Horizon.jpg"
+    }
+    ,
+    {
+      "title": "宝可梦地平线探索队2",
+      "artist": "Pokemon Horizon",
+      "audio": "宝可梦地平线探索队2.mp3",
+      "cover": "Pokemon Horizon.jpg"
     }
   ]
 }
